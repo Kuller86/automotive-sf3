@@ -9,8 +9,9 @@
         }
     ],
     "require": {
-        "modera/foundation-bundle": "dev-sf3"
+        "modera/foundation-bundle": "~3.0"
     },
+	"minimum-stability": "dev",
     "extra": {
         "branch-alias": {
             "dev-master": "0.x-dev"
