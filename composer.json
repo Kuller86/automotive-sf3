@@ -8,7 +8,7 @@
             "email": "alexander.ivanitsa@modera.net"
         }
     ],
-	repositories: [
+	"repositories": [
 		{
             "type": "package",
             "package": {
