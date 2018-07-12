@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "modera/foundation-bundle": "~3.x-dev"
+        "modera/foundation-bundle": "3.x-dev"
     },
     "extra": {
         "branch-alias": {
