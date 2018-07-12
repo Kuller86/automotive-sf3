@@ -1,0 +1,19 @@
+{
+    "name": "modera/automotive-sf3",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexander Ivanitsa",
+            "email": "alexander.ivanitsa@modera.net"
+        }
+    ],
+    "require": {
+        "modera/foundation-bundle": "~3.0",
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.x-dev"
+        }
+    }
+}
